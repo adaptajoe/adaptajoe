@@ -1,15 +1,15 @@
 <h1 align="center">'eyup, I'm Joe</h1>
-<h3 align="center">A Front-end Dev. at Adaptavist & Salable</h3>
+<h3 align="center">A Front-end Dev. at [Adaptavist](https://adaptavist.com) & [Salable](https://salable.org)</h3>
 
 - 🔭 I’m currently working on [the Salable GDS](https://github.com/Salable/gds)
 
-- 🔭 I’m currently working on [Salable](https://github.com/Salable)
+- 🔭 I’m **_also_** currently working on [Salable](https://github.com/Salable)
 
 - 👨‍💻 All of my projects are available at [https://github.com/adaptajoe](https://github.com/adaptajoe)
 
 - 💬 Ask me about **React, TypeScript, Accessibility, Atomic Design and more!**
 
-- 📫 How to reach me **jgribble@adaptavist.com**
+- 📫 Contact me at **jgribble@adaptavist.com**
 
 - 📄 Connect with me on LinkedIn [https://www.linkedin.com/in/%F0%9F%9F%A0-joseph-joe-gribble-606b40106/](https://www.linkedin.com/in/%F0%9F%9F%A0-joseph-joe-gribble-606b40106/)
 
