@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adaptajoe](https://github.com/adaptajoe)
 
-- 💬 Ask me about **React, TypeScript, Accessibility, Atomic Design**
+- 💬 Ask me about **React, TypeScript, Accessibility, Atomic Design and more!**
 
 - 📫 How to reach me **jgribble@adaptavist.com**
 
