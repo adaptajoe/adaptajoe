@@ -1,5 +1,5 @@
 <h1 align="center">'eyup, I'm Joe</h1>
-<h3 align="center">A Front-end Dev. at [Adaptavist](https://adaptavist.com) & [Salable](https://salable.org)</h3>
+<h3 align="center">A Front-end Dev. at Adaptavist & Salable</h3>
 
 - 🔭 I’m currently working on [the Salable GDS](https://github.com/Salable/gds)
 
