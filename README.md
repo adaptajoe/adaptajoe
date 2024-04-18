@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React, TypeScript, Accessibility (A11y), Responsive Design, Accessible Design, Atomic Development and more!**
 
-- 📫 Have a question about **Adaptavist** or **Salable**? Contact me at **jgribble@adaptavist.com** and use the term 'I have a question about Adaptavist' or 'I have a question about Salable' in your Subject. Emails that don't use this will be auto-filtered and ignored.
+- 📫 Have a question about **Adaptavist** or **Salable**? Contact me at **jgribble@adaptavist.com** and use the term _'I have a question about Adaptavist'_ or _'I have a question about Salable'_ in your Subject. Emails that **don't** use this will be **auto-filtered and ignored**.
 
-- 📫 Have a question about anything that **isn't** about **Adaptavist** or **Salable**? Contact me at **joseph.gribble@outlook.com**. I am not looking for any new roles, offers or opportunities. Any email that includes any of those three will result in your email being blocked automatically.
+- 📫 Have a question about anything that **isn't** about **Adaptavist** or **Salable**? Contact me at **joseph.gribble@outlook.com**. **I am not looking for any new roles, offers or opportunities**. Any email that includes any of those three **will** result in your email being **blocked automatically**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
