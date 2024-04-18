@@ -1,7 +1,7 @@
 <h1 align="center">'eyup, I'm Joe</h1>
-<h3 align="center">A Front-end Developer at Adaptavist & Salable</h3>
+<h3 align="center">A Front-end Developer at [Adaptavist](https://www.adaptavist.com/) & [Salable](https://www.salable.app/)</h3>
 
-- 🔭 I’m currently working on [Salable](https://github.com/Salable)
+- 🔭 I’m currently working on [Salable](https://www.salable.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/adaptajoe](https://github.com/adaptajoe)
 
